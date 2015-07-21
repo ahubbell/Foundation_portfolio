@@ -1,32 +1,57 @@
 section#home {
   background: green;
+<<<<<<< HEAD
   height: 100vh;
   width: 100%;
+=======
+  min-height: 110%;
+  min-width: 100%;
+>>>>>>> 88bcbbea02e9994aca144a79949a402c9d02cc57
 }
 
 section#about {
   background: white;
+<<<<<<< HEAD
   height: 100vh;
   width: 100%;
+=======
+  min-height: 110%;
+  min-width: 100%;
+>>>>>>> 88bcbbea02e9994aca144a79949a402c9d02cc57
 }
 
 section#contact {
   background: red;
+<<<<<<< HEAD
   height: 100vh;
   width: 100%;
+=======
+  min-height: 110%;
+  min-width: 100%;
+>>>>>>> 88bcbbea02e9994aca144a79949a402c9d02cc57
 }
 
 
 section#web-design {
   background: pink;
+<<<<<<< HEAD
   height: 100vh;
   width: 100%;	
+=======
+  min-height: 110%;
+  min-width: 100%;	
+>>>>>>> 88bcbbea02e9994aca144a79949a402c9d02cc57
 }
 
 section#apps {
   background: black;
+<<<<<<< HEAD
   height: 100vh;
   width: 100%;
+=======
+  min-height: 110%;
+  min-width: 100%;
+>>>>>>> 88bcbbea02e9994aca144a79949a402c9d02cc57
 }
 
 .section {
@@ -42,6 +67,7 @@ section#apps {
   margin-bottom: 0px;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 768px) {
 	section#about {
 		height: 100vh;
@@ -60,3 +86,15 @@ section#apps {
 	}
 }
 
+=======
+/*@media (max-width: 768px) {
+	section#about {
+		height: 160%;
+	}
+
+	section#web-design {
+		height: 130%;
+	}
+}
+*/
+>>>>>>> 88bcbbea02e9994aca144a79949a402c9d02cc57
