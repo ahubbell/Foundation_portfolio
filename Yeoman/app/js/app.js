@@ -26,13 +26,8 @@ var app = (function(document, $) {
 ////////////    JQUERY     ///////////////////////////////////
 
 
-<<<<<<< HEAD
 //creates a smooth scroll animation when the top bar nav anchor is clicked - scrolls down to link section on page
 $(".nav-links").click(function() {
-=======
-// creates a smooth scroll animation when the top bar nav anchor is clicked - scrolls down to link section on page
-$(".top-bar li a").click(function() {
->>>>>>> 88bcbbea02e9994aca144a79949a402c9d02cc57
 	// stores the href attribute that is clicked in variable called page
 	var page_location = $(this).attr('href'); 
     $('html, body').animate({
