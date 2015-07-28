@@ -1,12 +1,7 @@
 section#home {
   background: green;
-<<<<<<< HEAD
   height: 100vh;
   width: 100%;
-=======
-  min-height: 110%;
-  min-width: 100%;
->>>>>>> 88bcbbea02e9994aca144a79949a402c9d02cc57
 }
 
 section#about {
